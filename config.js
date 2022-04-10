@@ -53,16 +53,16 @@ global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
 //donasi
 global.donate = `
 ╭─「  Donasi • Pulsa 」
-├❒ tre [0857 4234 4873]
+├❒ Telkom [0822 3434 3854]
 ╰────
 
 ╭─「  Donasi • Non Pulsa 」
-├❒ Gopay [0857 4234 4873]
-├❒ saweria [https://saweria.co/JulianKastaraaa09]
+├❒ Gopay [0822 3434 3854]
+├❒ saweria [https://saweria.co/nadjiebahmad]
 ╰────
 
 ╭─「  Hubungi 」
-├❒ Ingin donasi? Wa.me/6285742344873
+├❒ Ingin donasi? Wa.me/6282234343854
 ╰────` //UBAH JADI NOMER DAN LINK SAWERIA MU
 
 //Rules bot
@@ -83,10 +83,10 @@ global.rules = `
 └─ *「 RULES BOT」*` //Ubah jadi semau mu
 
 // Sticker WM
-global.packname = 'By Iyann'
-global.author = 'Tohka Yatogami'
-global.wm = '© Tohka Yatogami' //UBAH JADI NAMAMU
-global.botwm = '© Tohka Yatogami' //UBAH JADI NAMAMU
+global.packname = 'By nadjieb'
+global.author = 'TikiBot'
+global.wm = '© NadjiebTiki' //UBAH JADI NAMAMU
+global.botwm = '© nadjieb Ahmad' //UBAH JADI NAMAMU
 global.image = 'https://telegra.ph/file/8498b727d19499438c5c1.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
