@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *Permanen* : *Rp 10000*
 ╠➥ *Owner* :   *Rp 15000*/bln
 ╠➥ *Sc Bot* : 
-║https://github.com/Drz103/RadBot
+║https://github.com/nadjieb08/tes
 ╠═〘 PEMBAYARAN 〙 ═
 ╠➥ Dana Dan Pulsa
 ║
@@ -15,7 +15,7 @@ let handler = async (m, { conn }) => {
 ║
 ╠═ ©2021 Rpg wabot-aq
 ╠═ Scrip original by Nurutomo
-╠═〘 MIKU BOT〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
+╠═〘 TIKI BOT〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
 
 handler.command = /^sewabot$/i
